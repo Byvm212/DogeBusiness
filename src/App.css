@@ -1,0 +1,30 @@
+#App-header{
+  border: 1px solid red;
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  
+  
+}
+
+#App-title, #perrito{
+  border: 1px solid black;
+}
+
+#App-title{
+
+  padding: 2%;
+  
+  
+}
+
+#perrito {
+
+  border: 1px solid black;
+
+}
+
+#instagram{
+  border: 1px solid black;
+}
+
